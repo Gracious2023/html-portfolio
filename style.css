@@ -1,0 +1,23 @@
+
+        body {
+            background-color: #FFF2CC;
+        }
+
+        hr {
+            background-color: white;
+            border-style: none;
+            height: 2px;
+            width: 30%;
+        }
+
+        img {
+            height: 150px;
+        }
+
+        h1{
+            color: #F4B183;
+        }
+
+        h3{
+            color: #F4B183;
+        }
